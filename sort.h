@@ -11,8 +11,8 @@
  */
 typedef enum boolean
 {
-    false_value = 0,
-    true_value
+false_value = 0,
+true_value
 } boolean;
 
 /**
